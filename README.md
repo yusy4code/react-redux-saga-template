@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React - Redux - Saga Template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This contains the basic boiler plate code needed to setup React with React-router 6 and Redux toolkit along with Saga for making API calls.
 
 ## Available Scripts
 
